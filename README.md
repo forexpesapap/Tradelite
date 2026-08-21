@@ -1,8 +1,7 @@
-# Tradelite
+index.html
+style.css
+app.js
 server.js
 package.json
-Dockerfile
-docker-compose.yml
-public/
+.gitignore
 .env.example
-DEPLOY.md
