@@ -4,4 +4,4 @@ app.js
 server.js
 package.json
 .gitignore
-.env.example
+
